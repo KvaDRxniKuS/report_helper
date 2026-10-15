@@ -25,7 +25,8 @@ https://github.com/user-attachments/assets/b4b6f345-4eb0-4ab3-b290-8bf135ba6971
 
 https://github.com/user-attachments/assets/a0ed15f4-6957-4500-b9a0-caa73ca0ab11
 
-### Шаг 1 — Проверить наличие личной книги
+### Шаг 1 — Проверить наличие личной книги PERSONAL.XLSB в Visual Basic
+если в Visual Basic нет такой книги то нужно начать запись макроса обязательно указав что сохранять его нужно в личную книгу макросов, остановить запись, после этого книга появится в Visual Basic.
 
 https://github.com/user-attachments/assets/2df7900a-0903-4a0c-95f2-6f3123860f6d
 
