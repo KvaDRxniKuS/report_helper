@@ -25,18 +25,18 @@ https://github.com/user-attachments/assets/b4b6f345-4eb0-4ab3-b290-8bf135ba6971
 
 https://github.com/user-attachments/assets/a0ed15f4-6957-4500-b9a0-caa73ca0ab11
 
-### Шаг 1 — Проверить наличие личной книги PERSONAL.XLSB в Visual Basic
-если в Visual Basic нет такой книги то нужно начать запись макроса обязательно указав что сохранять его нужно в личную книгу макросов, остановить запись, после этого книга появится в Visual Basic.
+### Шаг 1 — Установка (3 варианта)
 
-https://github.com/user-attachments/assets/2df7900a-0903-4a0c-95f2-6f3123860f6d
-
-### Шаг 2 — Установка (3 варианта)
-
-**Вариант 1 — Через PERSONAL.XLSB (основной)**
+**Вариант 1 — Через копирование личной книги PERSONAL.XLSB (основной)**
 
 Win+R → `%APPDATA%\Microsoft\Excel\XLSTART` → скопировать `PERSONAL.XLSB`
 
 https://github.com/user-attachments/assets/61f724c4-448d-4c47-875d-155cfaa546bb
+
+## для вариантов 2 и 3 нужно проверить наличие личной книги PERSONAL.XLSB в Visual Basic
+если в Visual Basic нет такой книги то нужно начать запись макроса обязательно указав что сохранять его нужно в личную книгу макросов, остановить запись, после этого книга появится в Visual Basic.
+
+https://github.com/user-attachments/assets/2df7900a-0903-4a0c-95f2-6f3123860f6d
 
 **Вариант 2 — Импорт .bas**
 
@@ -50,13 +50,13 @@ Insert → Module → Ctrl+V
 
 https://github.com/user-attachments/assets/d8a391c6-409a-456c-b822-2719739f542f
 
-### Шаг 3 — Фильтр по ТЛ (если нужно не по всем)
+### Шаг 2 — Фильтр по ТЛ (если нужно не по всем)
 
 Вид → Показать → PERSONAL.XLSB → переименовать лист в TL → вписать ТЛ → Вид → Скрыть
 
 https://github.com/user-attachments/assets/770dabfa-b3f2-42a0-8ebb-5ed65a76723c
 
-### Шаг 4 — Запуск
+### Шаг 3 — Запуск
 
 вид → макрос (или Alt+F8) → UniversalReport → кнопка скопировать изображение
 
