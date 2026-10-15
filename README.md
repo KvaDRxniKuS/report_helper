@@ -17,6 +17,8 @@
 
 Скачай актуальный релиз
 
+https://github.com/user-attachments/assets/b4b6f345-4eb0-4ab3-b290-8bf135ba6971
+
 ---
 
 ## Видео-гайды (7 шт)
@@ -25,11 +27,11 @@
 
 Файл → Параметры → Настройка ленты → Разработчик
 
-https://github.com/user-attachments/assets/09c3cf6b-6532-4ffd-9230-40c7c936a967
+https://github.com/user-attachments/assets/a0ed15f4-6957-4500-b9a0-caa73ca0ab11
 
 ### Шаг 1 — Проверить наличие личной книги
 
-https://github.com/user-attachments/assets/30f2213d-0b4b-4940-b02f-daaedf4d2a23
+https://github.com/user-attachments/assets/2df7900a-0903-4a0c-95f2-6f3123860f6d
 
 ### Шаг 2 — Установка (3 варианта)
 
@@ -37,31 +39,31 @@ https://github.com/user-attachments/assets/30f2213d-0b4b-4940-b02f-daaedf4d2a23
 
 Win+R → `%APPDATA%\Microsoft\Excel\XLSTART` → скопировать `PERSONAL.XLSB`
 
-https://github.com/user-attachments/assets/e3c40bbd-804e-4b4d-9689-5675e8a5c188
+https://github.com/user-attachments/assets/61f724c4-448d-4c47-875d-155cfaa546bb
 
 **Вариант 2 — Импорт .bas**
 
 File → Import File → `UniversalReport.bas`
 
-https://github.com/user-attachments/assets/197c48a5-b594-4790-b3e0-85d24cea3056
+https://github.com/user-attachments/assets/ecf0fe77-ec33-46ac-b7d3-f18ea8c96f68
 
-**Вариант 3 — Копипаст**
+**Вариант 3 — Копировать код из .bas**
 
 Insert → Module → Ctrl+V
 
-https://github.com/user-attachments/assets/5efd2c88-a7c9-4880-8c55-9d96d9ea06ed
+https://github.com/user-attachments/assets/d8a391c6-409a-456c-b822-2719739f542f
 
 ### Шаг 3 — Фильтр по ТЛ (если нужно не по всем)
 
 Вид → Показать → PERSONAL.XLSB → переименовать лист в TL → вписать ТЛ → Вид → Скрыть
 
-https://github.com/user-attachments/assets/e79c2b39-c256-4ba6-854c-3622bcf9df9a
+https://github.com/user-attachments/assets/770dabfa-b3f2-42a0-8ebb-5ed65a76723c
 
 ### Шаг 4 — Запуск
 
 вид → макрос (или Alt+F8) → UniversalReport → кнопка скопировать изображение
 
-https://github.com/user-attachments/assets/09bfa352-4c35-482d-bb8c-3225818b91d4
+https://github.com/user-attachments/assets/586456bf-e384-4374-bed7-f02f41d2e7ea
 
 ---
 
