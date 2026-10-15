@@ -19,13 +19,13 @@ https://github.com/user-attachments/assets/b4b6f345-4eb0-4ab3-b290-8bf135ba6971
 
 ---
 
-### Шаг 0 — Включить Разработчика
+# Шаг 0 — Включить Разработчика
 
 Файл → Параметры → Настройка ленты → Разработчик
 
 https://github.com/user-attachments/assets/a0ed15f4-6957-4500-b9a0-caa73ca0ab11
 
-### Шаг 1 — Установка (3 варианта)
+# Шаг 1 — Установка (3 варианта)
 
 **Вариант 1 — Через копирование личной книги PERSONAL.XLSB (основной)**
 
@@ -50,13 +50,13 @@ Insert → Module → Ctrl+V
 
 https://github.com/user-attachments/assets/d8a391c6-409a-456c-b822-2719739f542f
 
-### Шаг 2 — Фильтр по ТЛ (если нужно не по всем)
+# Шаг 2 — Фильтр по ТЛ (если нужно не по всем)
 
 Вид → Показать → PERSONAL.XLSB → переименовать лист в TL → вписать ТЛ → Вид → Скрыть
 
 https://github.com/user-attachments/assets/770dabfa-b3f2-42a0-8ebb-5ed65a76723c
 
-### Шаг 3 — Запуск
+# Шаг 3 — Запуск
 
 вид → макрос (или Alt+F8) → UniversalReport → кнопка скопировать изображение
 
