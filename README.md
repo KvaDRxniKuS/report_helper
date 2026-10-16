@@ -29,7 +29,7 @@ https://github.com/user-attachments/assets/a0ed15f4-6957-4500-b9a0-caa73ca0ab11
 
 **Вариант 1 — Через копирование личной книги PERSONAL.XLSB (основной)**
 
-Win+R → `%APPDATA%\Microsoft\Excel\XLSTART` → скопировать `PERSONAL.XLSB`
+Win+R → `%APPDATA%\Microsoft\Excel\XLSTART` → скопировать `PERSONAL.XLSB` ОТКРЫВАТЬ ЭТОТ ФАЙЛ НЕ НУЖНО, он открывается в фоне при запуске любой таблицы, при попытке открыть будет пустой экран.
 
 https://github.com/user-attachments/assets/61f724c4-448d-4c47-875d-155cfaa546bb
 
